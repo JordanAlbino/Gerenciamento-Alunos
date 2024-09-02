@@ -1,4 +1,4 @@
-ALUNOS: Jordan Lima;Albertho Pedro, Stanley Kennedy, Arthur Estevam.
+ALUNOS: Jordan Lima, Albertho Pedro, Stanley Kennedy, Arthur Estevam.
 
 # Gerenciamento-Alunos
 
